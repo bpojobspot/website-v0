@@ -7,8 +7,8 @@ export function Navbar() {
     <nav className="sticky top-0 z-50 w-full border-b bg-white shadow-sm">
       <div className="container flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center space-x-2">
-          <Image src="/logo.jpg" alt="BPO JobSpot" width={40} height={40} className="h-8 w-8" />
-          <span className="text-xl font-bold text-emerald-600">BPO JobSpot</span>
+          <Image src="/logo.png" alt="BPO JobSpot" width={100} height={100} className="h-40 w-50" />
+        
         </Link>
 
         <div className="flex items-center space-x-6">
