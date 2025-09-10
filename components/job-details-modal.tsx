@@ -31,7 +31,7 @@ export function JobDetailsModal({ job, isOpen, onClose }: JobDetailsModalProps) 
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+      <DialogContent className="max-w-2xl w-[95vw] md:w-auto max-h-[90vh] overflow-y-auto p-4 sm:p-6">
         <DialogHeader>
           <DialogTitle className="text-xl font-bold text-foreground pr-8">{job.title}</DialogTitle>
           <p className="text-lg text-primary font-medium">{job.company}</p>

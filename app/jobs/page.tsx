@@ -113,7 +113,7 @@ export default function JobsPage() {
               </div>
 
               {/* Shift Filter */}
-              <div className="flex gap-2">
+              <div className="flex flex-wrap gap-2">
                 {shifts.map((shift) => (
                   <Button
                     key={shift}
@@ -133,7 +133,7 @@ export default function JobsPage() {
             </div>
 
             {/* Results Count */}
-            <div className="text-center">
+            <div className="text-center mt-2 md:mt-0">
               <p className="text-sm text-muted-foreground">
                 Showing {filteredJobs.length} of {jobs.length} jobs
               </p>

@@ -12,20 +12,20 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-primary/5 to-accent/5">
         <div className="absolute inset-0 bg-[url('/professional-office-workers-in-modern-bpo-call-cen.jpg')] bg-cover bg-center opacity-10" />
-        <div className="relative container mx-auto px-4 py-20 text-center">
+        <div className="relative container mx-auto px-4 py-16 sm:py-20 text-center">
           <div className="mx-auto max-w-4xl">
-            <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-6xl text-balance">
+            <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold tracking-tight text-foreground text-balance">
               Find BPO Jobs in Delhi NCR
               <span className="ml-2 text-primary">🚀</span>
             </h1>
-            <p className="mt-6 text-lg leading-8 text-muted-foreground text-pretty">
+            <p className="mt-4 sm:mt-6 text-base sm:text-lg leading-8 text-muted-foreground text-pretty">
               Apply instantly via WhatsApp. No registration required.
             </p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+            <div className="mt-8 sm:mt-10 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-x-6">
+              <Button asChild size="lg" className="w-full sm:w-auto bg-primary hover:bg-primary/90 text-primary-foreground">
                 <Link href="/jobs">Browse Jobs</Link>
               </Button>
-              <Button asChild variant="outline" size="lg">
+              <Button asChild variant="outline" size="lg" className="w-full sm:w-auto">
                 <a
                   href="https://wa.me/919311594259?text=Hi,%20I%20need%20help%20finding%20a%20BPO%20job%20in%20Delhi%20NCR."
                   target="_blank"
