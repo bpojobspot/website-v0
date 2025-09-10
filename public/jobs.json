@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "title": "Customer Support Executive",
+    "company": "TechCorp Solutions",
+    "location": "Gurgaon",
+    "salary": "₹18,000/month",
+    "shift": "Night",
+    "experience": "0-2 years",
+    "description": "Handle customer queries via phone and email. Provide excellent customer service and resolve issues efficiently.",
+    "requirements": [
+      "Good communication skills",
+      "Basic computer knowledge",
+      "Willingness to work night shifts",
+      "Graduate preferred"
+    ],
+    "benefits": ["Health insurance", "Performance bonus", "Free cab facility", "Training provided"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Customer%20Support%20Executive%20in%20Gurgaon."
+  },
+  {
+    "id": 2,
+    "title": "Chat Process Associate",
+    "company": "Digital Connect Ltd",
+    "location": "Noida",
+    "salary": "₹20,000/month",
+    "shift": "Day",
+    "experience": "0-1 years",
+    "description": "Manage customer interactions through live chat support. Provide quick and accurate responses to customer queries.",
+    "requirements": [
+      "Excellent typing speed",
+      "Good English communication",
+      "Multi-tasking abilities",
+      "Fresh graduates welcome"
+    ],
+    "benefits": ["Medical coverage", "Flexible timings", "Career growth opportunities", "Skill development programs"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Chat%20Process%20Associate%20in%20Noida."
+  },
+  {
+    "id": 3,
+    "title": "Technical Support Representative",
+    "company": "InfoTech Services",
+    "location": "Delhi",
+    "salary": "₹22,000/month",
+    "shift": "Rotational",
+    "experience": "1-3 years",
+    "description": "Provide technical assistance to customers for software and hardware issues. Troubleshoot problems and guide customers through solutions.",
+    "requirements": [
+      "Technical background preferred",
+      "Problem-solving skills",
+      "Patience and empathy",
+      "Basic IT knowledge"
+    ],
+    "benefits": ["Competitive salary", "Technical training", "Growth opportunities", "Team outings"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Technical%20Support%20Representative%20in%20Delhi."
+  },
+  {
+    "id": 4,
+    "title": "Voice Process Executive",
+    "company": "CallCenter Pro",
+    "location": "Gurgaon",
+    "salary": "₹19,500/month",
+    "shift": "Day",
+    "experience": "0-2 years",
+    "description": "Handle inbound and outbound calls for customer service and sales. Maintain call quality and achieve targets.",
+    "requirements": ["Clear voice and accent", "Sales aptitude", "Target-oriented mindset", "Good listening skills"],
+    "benefits": ["Incentive structure", "Health benefits", "Transportation allowance", "Regular training"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Voice%20Process%20Executive%20in%20Gurgaon."
+  },
+  {
+    "id": 5,
+    "title": "Email Support Associate",
+    "company": "Global Support Hub",
+    "location": "Noida",
+    "salary": "₹17,500/month",
+    "shift": "Night",
+    "experience": "0-1 years",
+    "description": "Manage customer support through email channels. Respond to queries, complaints, and provide solutions via written communication.",
+    "requirements": [
+      "Excellent written English",
+      "Attention to detail",
+      "Email etiquette",
+      "Customer service orientation"
+    ],
+    "benefits": ["Night shift allowance", "Medical insurance", "Paid training", "Career advancement"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Email%20Support%20Associate%20in%20Noida."
+  },
+  {
+    "id": 6,
+    "title": "Quality Analyst",
+    "company": "Excellence BPO",
+    "location": "Delhi",
+    "salary": "₹25,000/month",
+    "shift": "Day",
+    "experience": "2-4 years",
+    "description": "Monitor and evaluate customer service interactions to ensure quality standards. Provide feedback and coaching to team members.",
+    "requirements": [
+      "Quality assurance experience",
+      "Analytical skills",
+      "Leadership qualities",
+      "Process improvement mindset"
+    ],
+    "benefits": ["Higher salary bracket", "Leadership training", "Performance bonuses", "Professional development"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Quality%20Analyst%20in%20Delhi."
+  },
+  {
+    "id": 7,
+    "title": "Team Leader - Customer Service",
+    "company": "Premier Solutions",
+    "location": "Gurgaon",
+    "salary": "₹35,000/month",
+    "shift": "Rotational",
+    "experience": "3-5 years",
+    "description": "Lead a team of customer service representatives. Ensure team performance, handle escalations, and drive process improvements.",
+    "requirements": [
+      "Team management experience",
+      "Leadership skills",
+      "BPO background preferred",
+      "Strong communication abilities"
+    ],
+    "benefits": ["Management role", "Team incentives", "Leadership development", "Higher growth potential"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Team%20Leader%20-%20Customer%20Service%20in%20Gurgaon."
+  },
+  {
+    "id": 8,
+    "title": "Data Entry Operator",
+    "company": "DataPro Services",
+    "location": "Noida",
+    "salary": "₹16,000/month",
+    "shift": "Day",
+    "experience": "0-1 years",
+    "description": "Accurate data entry and maintenance of records. Ensure data quality and meet productivity targets.",
+    "requirements": ["Fast typing speed", "Accuracy in data entry", "Basic computer skills", "Attention to detail"],
+    "benefits": ["Entry-level opportunity", "Skill development", "Regular hours", "Growth opportunities"],
+    "whatsapp": "https://wa.me/919311594259?text=Hi,%20I%20want%20to%20apply%20for%20Data%20Entry%20Operator%20in%20Noida."
+  }
+]
